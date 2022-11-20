@@ -4,7 +4,7 @@
 </h2>
 
 <img src="https://gpvc.arturio.dev/GitReboot" alt="profile views">
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GitReboot" alt="GitReboot" /></a> </p>
 I'm Parz(pen name), an Undergraduate Computer Science Student at BITS Pilani Dubai Campus 🎓
 
 
