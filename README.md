@@ -45,18 +45,19 @@ I'm Parz(pen name), an Undergraduate Computer Science Student at BITS Pilani Dub
 ![](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
-## 📊 My GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GitReboot&theme=highcontrast"/>
-</div>
-
-
-<summary>💻 GitHub Profile Stats</summary>
-<div align="center">
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Parz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GitReboot&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Parz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitReboot&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
-<br/>
-</div>
-<b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
+[//]: <>## 📊 My GitHub Statistics
+[//]: <>
+[//]: <><div align="center">
+[//]: <>  <img src="https://github-readme-streak-stats.herokuapp.com?user=GitReboot&theme=highcontrast"/>
+[//]: <></div>
+[//]: <>
+[//]: <>
+[//]: <><summary>💻 GitHub Profile Stats</summary>
+[//]: <><div align="center">
+[//]: <><br/>
+[//]: <><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Parz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GitReboot&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+[//]: <><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Parz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitReboot&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+[//]: <><br/>
+[//]: <></div>
+[//]: <><b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
+[//]: <>
